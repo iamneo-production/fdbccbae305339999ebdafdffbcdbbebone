@@ -1,0 +1,10 @@
+Sep 22, 2023 9:37:33 PM utils.Base openBrowser
+INFO: Browser Launched
+Sep 22, 2023 9:37:34 PM utils.Base openBrowser
+INFO: Browser Loaded the URL
+Sep 22, 2023 9:37:35 PM utils.Base ClickOnElement
+INFO: Clicked on Today's Deals
+Sep 22, 2023 9:37:38 PM runner.Testcase1 todaysDeal
+INFO: Successfully Asserted for Todays Deals page
+Sep 22, 2023 9:37:38 PM runner.Testcase1 afterMethod
+INFO: Browser closed
